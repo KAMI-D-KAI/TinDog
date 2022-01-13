@@ -182,5 +182,10 @@ p {
   .phone {
     position: static;
     transform: rotate(0);
+    width: 50%;
+  }
+  
+  .testimonial-text {
+    padding: 0 10px;
   }
 }
